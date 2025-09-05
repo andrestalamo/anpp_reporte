@@ -4,15 +4,11 @@
 
 This repository contains a bilingual report (Spanish and English) on the relationship between **Aboveground Net Primary Productivity (ANPP)** and precipitation in the **Dry Puna (Cobres, Salta, Argentina)**.  
 
+📌 *This project is an example report created with [Quarto](https://quarto.org/), applying tips and tools learned in Yan Holtz’s course on productive workflows for R.*  
+
 👉 **[View the report online](https://andrestalamo.github.io/anpp_reporte/)**
 
 ---
-
-📌 *This project is an example report created with [Quarto](https://quarto.org/), applying tips and tools learned in Yan Holtz’s course on productive workflows for R.*  
-
----
-
-📷 Cover photo by **Mariana Quiroga-Mendiola**.  
 
 
 © 2025 Andrés Tálamo
