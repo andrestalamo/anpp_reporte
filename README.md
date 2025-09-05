@@ -12,5 +12,8 @@ This repository contains a bilingual report (Spanish and English) on the relatio
 
 ---
 
+📷 Cover photo by **Mariana Quiroga-Mendiola**.  
+
+
 © 2025 Andrés Tálamo
 
